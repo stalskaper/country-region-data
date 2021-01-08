@@ -17187,7 +17187,7 @@ return [
         "shortCode": "68"
       },
       {
-        "name": "Kiev",
+        "name": "Kyiv",
         "shortCode": "32"
       },
       {
